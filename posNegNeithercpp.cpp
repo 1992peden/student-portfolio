@@ -1,6 +1,5 @@
 /*This program will prompt the user to enter a number. Then, the program will evaluate and determine whether said number
-is positive, negative, or 0.
-I threw in a little loop because loop structures are not my strong suit.*/
+is positive, negative, or 0.*/
 
 #include <iostream>//Basic input/output
 #include <string>//String inclusion and manipulation
